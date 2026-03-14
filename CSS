@@ -7,12 +7,12 @@ body {
 
   place-items: center;
 
-  background: #111;
+  background: #ffffff;
 }
 
 
 canvas {
-  background: #222;
+  background: #ad3333;
   
-  border: 2px solid #444;
+  border: 2px solid #550707;
 }
